@@ -1,5 +1,5 @@
 # 💻Mundo da TI
-![image](/ATV1/Mundo%20da%20TI/img/home.png)
+![image](/Mundo%20da%20TI/img/home.png)
 Mundo da TI é um site desenvolvido durante o curso de Criação de Páginas com Marketing Digital no SENAI Anchieta, com parceria com o Governo do Estado de São Paulo...
 
 ## Como utilizar
