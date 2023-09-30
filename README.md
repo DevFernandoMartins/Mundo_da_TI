@@ -1,6 +1,7 @@
 # 💻Mundo da TI
 ![image](/Mundo%20da%20TI/img/home.png)
-Mundo da TI é um site desenvolvido durante o curso de Criação de Páginas com Marketing Digital no SENAI Anchieta, com parceria com o Governo do Estado de São Paulo...
+Mundo da TI é um site desenvolvido durante o curso de Criação de Páginas web com Marketing Digital no SENAI Anchieta, com parceria com o Governo do Estado de São Paulo...
+[Visualizar página](https://devfernandomartins.github.io/Mundo_da_TI/Mundo%20da%20TI/index.html)
 
 ## Como utilizar
  
